@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class test_ac1 {
+public class roboFazendeiro {
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in); // input para entrada de valores no terminal
